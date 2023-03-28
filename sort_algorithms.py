@@ -1,5 +1,5 @@
 """
-My study notes/solutions for the Coursera course Crafting Quality Code
+My study notes/solutions for the Coursera course Crafting Quality Code.
 3 basic sorting approaches: bubble, selection and insertion
 """
 
